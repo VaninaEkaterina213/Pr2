@@ -11,11 +11,15 @@ namespace git_pr
         static void Main(string[] args)
         {
             Random random = new Random();
-            int x1 = random.Next(1, 11);
-            int y1 = random.Next(1, 11);
-            int x2 = random.Next(1, 11);
-            int y2 = random.Next(1, 11);
+            double x1 = random.Next(1, 11);
+            double y1 = random.Next(1, 11);
+            double x2 = random.Next(1, 11);
+            double y2 = random.Next(1, 11);
             Console.WriteLine($"X1: {x1}, Y1: {y1}, X2: {x2}, Y2 {y2}");
+
+            double rast = Math.Sqrt(Math.Pow((x2 - x1), 2) + (Math.Pow((y2 - y1), 2)));
+            Console.WriteLine(rast.ToString());
+            Console.ReadKey();
         }
     }
 }

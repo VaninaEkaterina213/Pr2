@@ -1,0 +1,8 @@
+G:\csh_pr\git_pr\bin\Debug\git_pr.exe.config
+G:\csh_pr\git_pr\bin\Debug\git_pr.exe
+G:\csh_pr\git_pr\bin\Debug\git_pr.pdb
+G:\csh_pr\git_pr\obj\Debug\git_pr.csproj.AssemblyReference.cache
+G:\csh_pr\git_pr\obj\Debug\git_pr.csproj.SuggestedBindingRedirects.cache
+G:\csh_pr\git_pr\obj\Debug\git_pr.csproj.CoreCompileInputs.cache
+G:\csh_pr\git_pr\obj\Debug\git_pr.exe
+G:\csh_pr\git_pr\obj\Debug\git_pr.pdb
